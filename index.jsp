@@ -1,6 +1,7 @@
 <html>
 <head><title>First JSP</title></head>
 <body>
+<h1>Sapir WebSite - Final Project</h1>
   <%
     double num = Math.random();
     if (num > 0.95) {
